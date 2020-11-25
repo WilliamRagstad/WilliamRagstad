@@ -73,8 +73,8 @@ I am a **Software Engineer** & **Full-Stack Developer** 👨‍💻. I am curren
 
 <p>
   <a href="https://twitter.com/WilliamRagstad"><img src="https://img.shields.io/badge/@WilliamRagstad%20-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/></a>
-  <a href="https://www.youtube.com/channel/UCwDq4p9qmoJGuXwncUryl1A"><img src="https://img.shields.io/badge/William Rågstad%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  <a href="https://stackoverflow.com/users/5698805/william-r"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>
+  <a href="https://www.youtube.com/channel/UCwDq4p9qmoJGuXwncUryl1A"><img src="https://img.shields.io/badge/William Rågstad%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"/></a>
+  <a href="https://stackoverflow.com/users/5698805/william-r"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
   
 </p>
 

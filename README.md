@@ -65,7 +65,7 @@ I am a **Software Engineer** & **Full-Stack Developer** 👨‍💻. I am curren
   <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/latex%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>" />
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
 </p>
 

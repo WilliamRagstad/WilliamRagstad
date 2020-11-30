@@ -11,7 +11,7 @@ My name is *William*,
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on **[APC Library](https://github.com/APCLib)** and **[Pond](https://github.com/WilliamRagstad/Pond)**
+- 🔭 I’m currently working on **[APC Library](https://github.com/APCLib)** and **[SuperScript](https://github.com/SuperScript-js)**
 - 💬 Ask me about **anyting**
 - ⚡ Fun fact: **I love pizza**
 

@@ -15,17 +15,21 @@ My name is *William*,
 - 💬 Ask me about **anyting**
 - ⚡ Fun fact: **I love pizza**
 
-I am a **Software Engineer** & **Full-Stack Developer** 👨‍💻. I am currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and board member of [Stacken](http://stacken.kth.se/). I'm also the founder of the [APC Library](https://github.com/APCLib) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **over 50k downloads!!!🎉**
+I am a **Software Engineer** & **Full-Stack Developer** 👨‍💻. I am currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and board member of [Stacken](http://stacken.kth.se/). I'm also the founder of the [APC Library](https://github.com/APCLib), [SuperScript](https://github.com/SuperScript-js) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **over 50k downloads!!!🎉**
 
 <p align="center">
   <img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px">
   &nbsp;
   <img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px">
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <img alt="SuperScript" src="https://avatars0.githubusercontent.com/u/75228310?s=400&u=d19f6ba16a3fdba39095d12588359459930817a3&v=4" height="60px">
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="KTH" src="https://www.kth.se/polopoly_fs/1.77257.1600770350!/KTH_Logotyp_RGB_2013-2.svg" height="60px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Stacken" src="https://www.stacken.kth.se/images/stacken.png" height="60px">
 </p>
+
+
 
 ---
 

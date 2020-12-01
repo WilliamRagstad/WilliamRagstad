@@ -12,10 +12,10 @@ My name is *William*,
 - 📫 How to reach me: ...
 -->
 - 🔭 I’m currently working on **[APC Library](https://github.com/APCLib)** and **[SuperScript](https://github.com/SuperScript-js)**
-- 💬 Ask me about **anyting**
-- ⚡ Fun fact: **I love pizza**
+- 💬 Ask me about **tips and tricks regarding coding👨‍💻**
+- ⚡ Fun fact: **I play cello🎻**
 
-I am a **Software Engineer** & **Full-Stack Developer** 👨‍💻. I am currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and board member of [Stacken](http://stacken.kth.se/). I'm also the founder of the [APC Library](https://github.com/APCLib), [SuperScript](https://github.com/SuperScript-js) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **over 50k downloads!!!🎉**
+I am a **Software Engineer** & **Full-Stack Developer**. I am currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and board member of [Stacken](http://stacken.kth.se/). I'm also the founder of the [APC Library](https://github.com/APCLib), [SuperScript](https://github.com/SuperScript-js) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **over 50k downloads!!!🎉**
 
 <p align="center">
   <img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px">
@@ -82,4 +82,6 @@ I am a **Software Engineer** & **Full-Stack Developer** 👨‍💻. I am curren
   
 </p>
 
-Visit me on [my website](http://williamragstad.com/) if you'd want to get to know me more! <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="24"/>
+Visit me on [my website](http://williamragstad.com/) if you'd want to get to know me more.
+
+Bye!<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="24"/>

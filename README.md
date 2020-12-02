@@ -15,7 +15,7 @@ My name is *William*,
 - 💬 Ask me about **tips and tricks regarding coding👨‍💻**
 - ⚡ Fun fact: **I play cello🎻**
 
-I am a **Software Engineer** & **Full-Stack Developer**. I am currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and board member of [Stacken](http://stacken.kth.se/). I'm also the founder of the [APC Library](https://github.com/APCLib), [SuperScript](https://github.com/SuperScript-js) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **over 50k downloads!!!🎉**
+I am a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and a board member of [Stacken](http://stacken.kth.se/). I'm also the founder of CS:GO [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **>50k downloads!!!🎉**
 
 <p align="center">
   <img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px">
@@ -33,7 +33,7 @@ I am a **Software Engineer** & **Full-Stack Developer**. I am currently studying
 
 ---
 
-#### I am best in ❤
+#### I am best with ❤
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
@@ -48,7 +48,6 @@ I am a **Software Engineer** & **Full-Stack Developer**. I am currently studying
 #### Fun things I've worked with ⚡
 
 <p>
-  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
   <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
@@ -58,6 +57,7 @@ I am a **Software Engineer** & **Full-Stack Developer**. I am currently studying
   <img alt="Angular" src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="Firebase" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=flat&logo=firebase"/>
+  <img alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white"/>
   <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
@@ -71,6 +71,8 @@ I am a **Software Engineer** & **Full-Stack Developer**. I am currently studying
   <img alt="Adobe XD" src="https://img.shields.io/badge/adobe%20xd%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
   <img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+  <br/>
+  And much more...
 </p>
 
 #### Follow me on my social media 🤖

@@ -11,7 +11,8 @@ My name is *William*,
 - 🤔 I’m looking for help with ...
 - 📫 How to reach me: ...
 -->
-- 🔭 I’m currently working on **[APC Library](https://github.com/APCLib)** and **[SuperScript](https://github.com/SuperScript-js)**
+- 🔭 I’m currently working on **[
+Font Manager](https://github.com/WilliamRagstad/Font-Manager)**, **[APC Library](https://github.com/APCLib)** and **[SuperScript](https://github.com/SuperScript-js)**
 - 💬 Ask me about **tips and tricks regarding coding👨‍💻**
 - ⚡ Fun fact: **I play cello🎻**
 

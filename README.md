@@ -2,6 +2,7 @@
   Hi there!
   <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" height="50"/>
 </h1>
+<img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
 
 My name is *William*,
 <!--
@@ -28,8 +29,6 @@ I am a **Software Engineer** and **Full-Stack Developer**, currently studying **
   <img alt="KTH" src="https://www.kth.se/polopoly_fs/1.77257.1600770350!/KTH_Logotyp_RGB_2013-2.svg" height="60px">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Stacken" src="https://www.stacken.kth.se/images/stacken.png" height="60px">
-  <br/>
-  <img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
 </p>
 
 

@@ -31,6 +31,12 @@ I am a **Software Engineer** and **Full-Stack Developer**, currently studying **
   <img alt="Stacken" src="https://www.stacken.kth.se/images/stacken.png" height="60px">
 </p>
 
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact"/>
+</div>
 
 ---
 

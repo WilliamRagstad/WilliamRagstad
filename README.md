@@ -1,6 +1,6 @@
 <h1>
   Hi there!
-  <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" height="50"/>
+  <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="35"/>
 </h1>
 <img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
 
@@ -93,4 +93,4 @@ I am a **Software Engineer** and **Full-Stack Developer**, currently studying **
 
 Visit me on [my website](http://williamragstad.com/) if you'd want to get to know me more.
 
-Bye!<img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="24"/>
+Bye! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" height="30"/>

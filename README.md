@@ -17,7 +17,7 @@ Font Manager](https://github.com/WilliamRagstad/Font-Manager)**, **[APC Library]
 - 💬 Ask me about **tips and tricks regarding coding👨‍💻**
 - ⚡ Fun fact: **I play cello🎻**
 
-I am a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and a board member of [Stacken](http://stacken.kth.se/). I'm also the founder of CS:GO [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **>50k downloads!!!🎉**
+I am a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** *and working* at **[KTH](https://www.kth.se/)**, and a board member of [Stacken](http://stacken.kth.se/). I'm also the founder of CS:GO [Font Manager](https://github.com/WilliamRagstad/Font-Manager) with **>70k downloads!!!🎉**
 
 <p align="center">
   <img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px">

@@ -34,6 +34,8 @@ I have produced a large number of open-source projects, including [Font Manager]
 </p>
 
 
+<br/><br/>
+
 ---
 
 <div align="center">
@@ -70,7 +72,7 @@ You will be **personally be mentioned** in all my future popular projects as wel
 <br/><br/>
 
 
-#### I am best with ❤
+#### Languages I ❤
 
 <p>
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
@@ -122,6 +124,4 @@ You will be **personally be mentioned** in all my future popular projects as wel
   
 </p>
 
-Visit me on [my website](http://williamragstad.com/) if you'd want to get to know me more.
-
-Bye! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" height="30"/>
+OR visit me on [my website](http://williamragstad.com/) if you'd like to get to know me more.

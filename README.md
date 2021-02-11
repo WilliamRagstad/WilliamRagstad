@@ -41,8 +41,6 @@ I have produced a large number of open-source projects, including [Font Manager]
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact"/>
-  <br/>
-  <img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
 </div>
 
 ---
@@ -125,3 +123,9 @@ You will be **personally be mentioned** in all my future popular projects as wel
 </p>
 
 OR visit me on [my website](http://williamragstad.com/) if you'd like to get to know me more.
+
+<br/>
+
+<div align="center">
+<img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
+</div>

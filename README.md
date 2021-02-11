@@ -53,7 +53,7 @@ I have produced a large number of open-source projects, including [Font Manager]
 
 ### 💖 Become a Sponsor
 Open source **software takes a lot of time to create** and maintain! You can help me create better developer experiences, or simply say thank you for existing projects.
-*With your support*, I will be able to **continue the development Open-Source Software** projects for the *community*!
+*With your support*, I will be able to **continue to develop Open-Source Software** projects for the *community*!
 Consider supporting me and my work along the way. With my ideas and your support, nothing is impossible!
 
 #### 🍰 Perks

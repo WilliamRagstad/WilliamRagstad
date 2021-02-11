@@ -57,6 +57,9 @@ Consider supporting me and my work along the way. With my ideas and your support
 #### 🍰 Perks
 You will be **personally be mentioned** in all my future popular projects as well as being able to directly influence my work! But not only that, you will also receive one of **GitHub's sponsor badges**🎉
 
+#### ⚡ Stats
+Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** increase in **confidence**!
+
 <div align="center">
  <a href="https://github.com/sponsors/WilliamRagstad"><img src="https://devblackops.io/images/github_sponsor_button.png" height="65"/></a>
  <a href="https://www.buymeacoffee.com/williamragstad"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" height="70"/></a>

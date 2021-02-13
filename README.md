@@ -80,8 +80,8 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
 </p>
 
 #### Fun things I've worked with ⚡

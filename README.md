@@ -1,7 +1,11 @@
-<h1>
-  Hi there!
+<div align="center">
+  <img src="github banner.png" width="100%"/>
+</div>
+
+<h2>
   <img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="35"/>
-</h1>
+  Hello, and Welcome!
+</h2>
 
 My name is *William*,\
 I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at **[KTH](https://www.kth.se/)** in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages since 2021, [SIGPLAN](https://www.sigplan.org/).\

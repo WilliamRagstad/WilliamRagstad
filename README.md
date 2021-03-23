@@ -136,3 +136,7 @@ OR visit me on [my website](http://williamragstad.com/) if you'd like to get to 
 <div align="center">
 <img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
 </div>
+
+<div align="center">
+    <img src="https://contourmy.com/resources/images/ecoupon_redemption_footer.png" width="100%"/>
+</div>

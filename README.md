@@ -144,5 +144,5 @@ OR visit me on [my website](http://williamragstad.com/) if you'd like to get to 
 </div>
 
 <div align="center">
-    <img src="https://contourmy.com/resources/images/ecoupon_redemption_footer.png" width="100%"/>
+    <img src="https://www.karonia.com/assets/img/footer/footer-background.png" width="100%"/>
 </div>

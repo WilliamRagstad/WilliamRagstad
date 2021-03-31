@@ -28,7 +28,7 @@ I have also produced a large set of projects, including [Font Manager](https://g
 
 
 <p align="center">
-  <a href="https://github.com/WilliamRagstad/Font-Manager"><img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px"></a>
+  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px"></a>
   &nbsp;
   <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;

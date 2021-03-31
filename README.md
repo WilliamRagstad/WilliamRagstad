@@ -30,15 +30,15 @@ I have also produced a large set of projects, including [Font Manager](https://g
 <p align="center">
   <a href="https://github.com/WilliamRagstad/Font-Manager"><img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px"></a>
   &nbsp;
-  <a href="https://github.com/APClib"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
+  <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Lento-lang"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
+  <a href="https://github.com/Lento-lang" target="_blank"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SuperScript-js"><img alt="SuperScript" src="https://avatars0.githubusercontent.com/u/75228310?s=400&u=d19f6ba16a3fdba39095d12588359459930817a3&v=4" height="60px"></a>
+  <a href="https://github.com/SuperScript-js" target="_blank"><img alt="SuperScript" src="https://avatars0.githubusercontent.com/u/75228310?s=400&u=d19f6ba16a3fdba39095d12588359459930817a3&v=4" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kth.se/en"><img alt="KTH" src="https://www.kth.se/polopoly_fs/1.77257.1600770350!/KTH_Logotyp_RGB_2013-2.svg" height="60px"></a>
+  <a href="https://www.kth.se/en" target="_blank"><img alt="KTH" src="https://www.kth.se/polopoly_fs/1.77257.1600770350!/KTH_Logotyp_RGB_2013-2.svg" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.stacken.kth.se/en/"><img alt="Stacken" src="https://www.stacken.kth.se/images/stacken.png" height="60px"></a>
+  <a href="https://www.stacken.kth.se/en/" target="_blank"><img alt="Stacken" src="https://www.stacken.kth.se/images/stacken.png" height="60px"></a>
 </p>
 
 

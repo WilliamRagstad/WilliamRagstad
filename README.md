@@ -137,7 +137,7 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
   
 </p>
 
-OR visit me on [my website](http://williamragstad.com/) if you'd like to get to know me more.
+OR visit me on [my website](https://www.williamragstad.com/) if you'd like to get to know me more.
 
 <br/>
 

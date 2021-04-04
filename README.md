@@ -11,7 +11,7 @@
 
 My name is **William**,\
 I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages since 2021, [SIGPLAN](https://www.sigplan.org/).\
-I have also produced a large set of open-source projects, including the [Lento programming language](https://github.com/Lento-lang) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — which has more than **70k downloads!** 🎉
+I have also produced a large set of open-source projects, including [the Lento programming language](https://github.com/Lento-lang) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — which has more than **70k downloads!** 🎉
 
 
 <!--
@@ -22,7 +22,7 @@ I have also produced a large set of open-source projects, including the [Lento p
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on **[Font Manager](https://github.com/WilliamRagstad/Font-Manager)**, **[APC Library](https://github.com/APCLib)** and **[SuperScript](https://github.com/SuperScript-js)**
+- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)**, **[APC Library](https://github.com/APCLib)** and **[Font Manager](https://github.com/WilliamRagstad/Font-Manager)**
 - ❤ I love **coding and building compilers, interpreters and parsers!**
 - ⚡ Fun fact: **I play the cello🎻**
 

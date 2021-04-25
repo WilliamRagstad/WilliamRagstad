@@ -10,7 +10,7 @@
 <br/>
 
 My name is **William**,\
-I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages since 2021, [SIGPLAN](https://www.sigplan.org/).\
+I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages since 2021. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/) \
 I have also produced a large set of open-source projects, including [the Lento programming language](https://github.com/Lento-lang) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — which has more than **70k downloads!** 🎉
 
 
@@ -88,7 +88,7 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 
 <!-- All icons: https://simpleicons.org/ -->
 <p>
-  <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=bower&logoColor=white"/>
+  <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>

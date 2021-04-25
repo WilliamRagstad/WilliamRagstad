@@ -86,7 +86,9 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 
 #### Languages I ❤
 
+<!-- All icons: https://simpleicons.org/ -->
 <p>
+  <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=bower&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>

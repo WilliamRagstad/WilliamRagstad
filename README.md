@@ -4,10 +4,9 @@
 
 <br/>
 <br/>
-<span>
-  Hello, and welcome to my profile!<a href="#"><img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="20"/></a>
-</span>
-<br/>
+<h3>
+  Hello, and Welcome!<a href="#"><img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="20"/></a>
+</h3>
 
 My name is **William**,\
 I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/) \

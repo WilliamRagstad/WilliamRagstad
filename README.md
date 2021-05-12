@@ -96,6 +96,8 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 #### Other Languages and Technologies I've worked with ⚡
 
 <p>
+  <img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/>
+  <img alt="F#" src="https://img.shields.io/badge/FSharp-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/>
   <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
   <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
@@ -104,6 +106,7 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
@@ -120,7 +123,6 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-505050?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white"/>
-  <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
   <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>

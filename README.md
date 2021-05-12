@@ -22,7 +22,7 @@ I have also produced a large set of open-source projects, including [the Lento p
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)**, **[APC Library](https://github.com/APCLib)** and **[Font Manager](https://github.com/WilliamRagstad/Font-Manager)**
+- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[APC Library](https://github.com/APCLib)**.
 - ❤ I love **coding and building compilers, interpreters and parsers!**
 - ⚡ Fun fact: **I play the cello🎻**
 

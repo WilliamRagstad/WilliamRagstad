@@ -25,6 +25,7 @@ I have also produced a large set of open-source projects, including [the Lento p
 - ❤ I love **coding and building compilers, interpreters and parsers!**
 - ⚡ Fun fact: **I play the cello🎻**
 
+<br/>
 
 <p align="center">
   <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="https://github.com/WilliamRagstad/Font-Manager/raw/master/CSGO%20Font%20Manager/Resources/fontmanager.png?raw=true" height="60px"></a>
@@ -43,6 +44,15 @@ I have also produced a large set of open-source projects, including [the Lento p
 
 <br/><br/>
 
+<div align="center">
+  <h3>View all of my Gists on:</h3>
+  <a href="https://gist.github.com/WilliamRagstad" target="_blank">
+    <img src="https://pepa.holla.cz/wp-content/uploads/2019/11/github-gist-logo.png" width="200px">
+  </a>
+</div>
+
+<br/><br/>
+
 ---
 
 <div align="center">
@@ -53,7 +63,6 @@ I have also produced a large set of open-source projects, including [the Lento p
 </div>
 
 ---
-
 
 <br/><br/>
 

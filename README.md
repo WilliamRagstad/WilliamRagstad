@@ -12,7 +12,6 @@ My name is **William**,\
 I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/) \
 I have also produced a large set of open-source projects, including [the Lento programming language](https://github.com/Lento-lang) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — which has more than **80k downloads!** 🎉
 
-
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -62,6 +61,8 @@ I have also produced a large set of open-source projects, including [the Lento p
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact"/>
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=flat&no-frame=true&margin-w=15"/></a>
+  <br/>
+  <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a>
 </div>
 
 ---

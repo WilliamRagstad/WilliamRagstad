@@ -62,7 +62,9 @@ I have also produced a large set of open-source projects, including [the Lento p
   <br/>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=flat&no-frame=true&margin-w=15"/></a>
   <br/>
-  <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a>
+  <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a> | 
+  <a href="https://resume-github.vercel.app/WilliamRagstad">Github Resume</a> | 
+  <a href="https://resume.io/r/qnQGASSSD">Professional Resume</a>
 </div>
 
 ---

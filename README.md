@@ -64,7 +64,8 @@ I have also produced a large set of open-source projects, including [the Lento p
   <br/>
   <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a> | 
   <a href="https://resume-github.vercel.app/WilliamRagstad">Github Resume</a> | 
-  <a href="https://resume.io/r/qnQGASSSD">Professional Resume</a>
+  <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> | 
+  <a href="https://rxresu.me/r/mref66">Professional Resume (Short)
 </div>
 
 ---

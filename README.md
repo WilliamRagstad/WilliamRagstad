@@ -105,10 +105,11 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 
 #### Languages I ❤
 
-<!-- All icons: https://simpleicons.org/ -->
+<!-- All icons: https://simpleicons.org/ or https://ileriayo.github.io/markdown-badges/-->
 <p>
   <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23ef4a00.svg?style=flat&logo=rust&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
   <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
 </p>
@@ -134,6 +135,7 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 #### Technologies I've worked with ⚡
 
 <p>
+  <img alt=".Net" src="https://img.shields.io/badge/.NET%205.0-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=react-router&logoColor=white" />

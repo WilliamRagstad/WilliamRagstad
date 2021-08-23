@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <h3>
-  Hello, and Welcome!<a href="#"><img src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" height="20"/></a>
+  <img src="wave_transparent.gif" height="28"/> Hello, and Welcome!
 </h3>
 
 My name is **William**,\

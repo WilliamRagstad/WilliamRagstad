@@ -27,8 +27,8 @@ I have also produced a large set of open-source projects, including [the Lento p
 <br/>
 
 <p align="center">
-  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="/FontManager.png" height="80px"></a>
-  &nbsp;
+  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="/FontManager.png" height="55px"></a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
   &nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/RustScript" target="_blank"><img alt="RustScript-lang" src="https://github.com/WilliamRagstad/RustScript/blob/main/assets/icon_compressed.png" height="60px"></a>

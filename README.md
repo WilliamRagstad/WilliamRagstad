@@ -56,17 +56,21 @@ I have also produced a large set of open-source projects, including [the Lento p
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact"/>
-  <br/>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=flat&no-frame=true&margin-w=15"/></a>
-  <br/>
-  <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a> | 
-  <a href="https://resume-github.vercel.app/WilliamRagstad">Github Resume</a> | 
-  <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> | 
-  <a href="https://rxresu.me/r/mref66">Professional Resume (Short)
-</div>
+<details>
+  <summary>GitHub Statistics</summary>
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact"/>
+    <br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=flat&no-frame=true&margin-w=15"/></a>
+    <br/><br/>
+    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a> | 
+    <a href="https://resume-github.vercel.app/WilliamRagstad">Github Resume</a> | 
+    <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> | 
+    <a href="https://rxresu.me/r/mref66">Professional Resume (Short)
+      <br/>
+  </div>
+</details>
 
 ---
 

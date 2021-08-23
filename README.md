@@ -85,8 +85,8 @@ You will be **personally be mentioned** in all my future popular projects as wel
 Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** increase in **confidence**!
 
 <div align="center">
- <a href="https://github.com/sponsors/WilliamRagstad"><img src="https://devblackops.io/images/github_sponsor_button.png" height="65"/></a>
- <a href="https://www.buymeacoffee.com/williamragstad"><img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-1.svg" height="70"/></a>
+ <a href="https://github.com/sponsors/WilliamRagstad"><img src="sponsor.png" height="60"/></a>
+ <a href="https://www.buymeacoffee.com/williamragstad"><img src="coffee.png" height="75"/></a>
  <a href="https://paypal.me/williamragstad"><img src="Paypal.png" height="75"/></a>
 </div>
 

@@ -48,7 +48,7 @@ I have also produced a large set of open-source projects, including [the Lento p
 <div align="center">
   <h3>View all of my Gists on:</h3>
   <a href="https://gist.github.com/WilliamRagstad" target="_blank">
-    <img src="https://pepa.holla.cz/wp-content/uploads/2019/11/github-gist-logo.png" width="200px">
+    <img src="/gist.png" width="300px">
   </a>
 </div>
 

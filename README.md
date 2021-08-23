@@ -5,7 +5,7 @@
 <br/>
 <br/>
 <h3>
-  <img src="wave_transparent.gif" height="28"/> Hello, and Welcome!
+  <img src="wave_transp_cropped.gif" height="28"/> Hello, and Welcome!
 </h3>
 
 My name is **William**,\
@@ -86,8 +86,9 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 
 <div align="center">
  <a href="https://github.com/sponsors/WilliamRagstad"><img src="sponsor.png" height="60"/></a>
- <a href="https://www.buymeacoffee.com/williamragstad"><img src="coffee.png" height="75"/></a>
- <a href="https://paypal.me/williamragstad"><img src="Paypal.png" height="75"/></a>
+  &nbsp;
+ <a href="https://www.buymeacoffee.com/williamragstad"><img src="coffee.png" height="70"/></a>
+ <a href="https://paypal.me/williamragstad"><img src="Paypal.png" height="70"/></a>
 </div>
 
 <br/><br/>

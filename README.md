@@ -108,6 +108,7 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 <!-- All icons: https://simpleicons.org/ or https://ileriayo.github.io/markdown-badges/-->
 <p>
   <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/>
+  <img alt="RustScript" src="https://img.shields.io/badge/RustScript%20-%23fd5621.svg?&style=flat&logo=Rakuten&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
   <img alt="Rust" src="https://img.shields.io/badge/Rust-%23946245.svg?style=flat&logo=rust&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />

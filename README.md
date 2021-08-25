@@ -9,8 +9,10 @@
 </h3>
 
 My name is **William**,\
-I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:. Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/) \
-I have also produced a large set of open-source projects, including [the Lento programming language](https://github.com/Lento-lang) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — which has more than **80k downloads!** 🎉
+I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:.
+Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/)
+
+I create awesome Open-Source Software, Tools and Apps for developers. My large set of projects includes the [Lento language](https://github.com/Lento-lang), [RustScript language](https://github.com/WilliamRagstad/RustScript), [APC Library](https://github.com/APCLib) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — having more than **90k downloads!** 🎉
 
 <!--
 - 🔭 I’m currently working on ...
@@ -20,8 +22,8 @@ I have also produced a large set of open-source projects, including [the Lento p
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[APC Library](https://github.com/APCLib)**.
-- ❤ I love **coding and building compilers, interpreters and parsers!**
+- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[RustScript](https://github.com/WilliamRagstad/RustScript)**.
+- ❤ I love building **compilers** and **interpreters**!
 - ⚡ Fun fact: **I play the cello🎻**
 
 <br/>

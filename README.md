@@ -188,7 +188,9 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 
 OR visit me on [my website](https://www.williamragstad.com/) if you'd like to get to know me more.
 
-<br/>
+
+<br/><br/>
+
 
 <div align="center">
 <img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>

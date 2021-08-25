@@ -111,10 +111,12 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
     <a href="https://rxresu.me/r/mref66">Professional Resume (Short)</a>
   </div>
 </details>
-<br/><br/><br/>
 
 
 ---
+
+
+<br/><br/>
 
 
 #### Languages I ❤

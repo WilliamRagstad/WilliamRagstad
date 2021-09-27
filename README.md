@@ -183,7 +183,7 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
   <a href="https://twitter.com/WilliamRagstad" target="_blank"><img src="https://img.shields.io/badge/@WilliamRagstad%20-%231DA1F2.svg?&style=flat&logo=Twitter&logoColor=white"/></a>
   <a href="https://www.youtube.com/channel/UCwDq4p9qmoJGuXwncUryl1A" target="_blank"><img src="https://img.shields.io/badge/William Rågstad%20-%23FF0000.svg?&style=flat&logo=YouTube&logoColor=white"/></a>
   <a href="https://stackoverflow.com/users/5698805/william-r" target="_blank"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
-  <a href="https://www.twitch.tv/williamragstad" target="_blank"><img src="https://img.shields.io/badge/William Rågstad%20-%2365469c.svg?&style=flat&logo=Twitch&logoColor=white"/></a>
+  <a href="https://www.twitch.tv/williamragstad" target="_blank"><img src="https://img.shields.io/badge/WilliamRagstad%20-%2365469c.svg?&style=flat&logo=Twitch&logoColor=white"/></a>
 </p>
 
 OR visit me on [my website](https://www.williamragstad.com/) if you'd like to get to know me more.

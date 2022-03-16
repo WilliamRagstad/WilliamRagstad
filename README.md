@@ -1,13 +1,12 @@
 <div align="center">
-  <img src="github banner text.png" width="100%"/>
+  <img src="img/banner.png" width="100%"/>
 </div>
 
 <br/>
 <br/>
 <h3>
-  <img src="wave_transp_cropped.gif" height="28"/> Hello, and Welcome!
+  <img src="img/wave_transp_cropped.gif" height="28"/> Hello, and Welcome!
 </h3>
-
 My name is **William**,\
 I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:.
 Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/)
@@ -15,6 +14,7 @@ Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and 
 I create awesome Open-Source Software, Tools and Apps for developers. My large set of projects includes the [Lento language](https://github.com/Lento-lang), [RustScript language](https://github.com/WilliamRagstad/RustScript), [APC Library](https://github.com/APCLib) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — having more than **90k downloads!** 🎉
 
 <!--
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -29,7 +29,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <br/>
 
 <p align="center">
-  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="/FontManager.png" height="55px"></a>
+  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
   &nbsp;&nbsp;
@@ -45,12 +45,13 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 </p>
 
 
+
 <br/><br/>
 
 <div align="center">
   <h3>View all of my Gists on:</h3>
   <a href="https://gist.github.com/WilliamRagstad" target="_blank">
-    <img src="/gist.png" width="300px">
+    <img src="img/gist.png" width="300px">
   </a>
 </div>
 

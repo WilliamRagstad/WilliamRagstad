@@ -7,14 +7,14 @@
 <h3>
   <img src="img/wave_transp_cropped.gif" height="28"/> Hello, and Welcome!
 </h3>
-My name is **William**,\
+
+My name is **William**,
 I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:.
 Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/)
 
 I create awesome Open-Source Software, Tools and Apps for developers. My large set of projects includes the [Lento language](https://github.com/Lento-lang), [RustScript language](https://github.com/WilliamRagstad/RustScript), [APC Library](https://github.com/APCLib) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — having more than **90k downloads!** 🎉
 
 <!--
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -101,10 +101,10 @@ You will be **personally be mentioned** in all my future popular projects as wel
 Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** increase in **confidence**!
 
 <div align="center">
- <a href="https://github.com/sponsors/WilliamRagstad"><img src="sponsor.png" height="60"/></a>
+ <a href="https://github.com/sponsors/WilliamRagstad"><img src="img/sponsor.png" height="60"/></a>
   &nbsp;
- <a href="https://www.buymeacoffee.com/williamragstad"><img src="coffee.png" height="70"/></a>
- <a href="https://paypal.me/williamragstad"><img src="Paypal.png" height="70"/></a>
+ <a href="https://www.buymeacoffee.com/williamragstad"><img src="img/coffee.png" height="70"/></a>
+ <a href="https://paypal.me/williamragstad"><img src="img/paypal.png" height="70"/></a>
 </div>
 
 <br/><br/>

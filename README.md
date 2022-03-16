@@ -103,7 +103,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 
 
 <details>
-  <summary>Resume</summary>
+  <summary>Resume / CV</summary>
   <div align="center">
     <a href="https://resume-github.vercel.app/WilliamRagstad">Github Resume</a> | 
     <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> | 
@@ -175,7 +175,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
   <br/>
-  And much more...
+  And many more...
 </p>
 
 #### Follow me on my social media 🤖

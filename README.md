@@ -73,7 +73,8 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
   <img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg">
-  
+  <img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg">
+  <img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg">
   <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
   <!-- Footer -->
   <br/><br/>

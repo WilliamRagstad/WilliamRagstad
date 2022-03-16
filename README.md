@@ -56,6 +56,12 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 
 <br/><br/>
 
+
+<a href="https://app.daily.dev/DailyDevTips">
+  <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/master/devcard.svg" width="300" alt="William Råagstad's Dev Card"/>
+</a>
+
+
 ---
 
 <details>

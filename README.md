@@ -57,22 +57,26 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <br/><br/>
 
 
-<a href="https://app.daily.dev/DailyDevTips">
-  <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/master/devcard.svg" width="300" alt="William Råagstad's Dev Card"/>
-</a>
-
 
 ---
 
 <details>
   <summary>GitHub Statistics</summary>
   <br/><br/>
-  <div align="center">
+  <div align="left">
+    <!-- Right -->
+    <a href="https://app.daily.dev/DailyDevTips">
+      <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="300" alt="William Råagstad's Dev Card" align="right"/>
+    </a>
+    <!-- Left -->
     <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
-    <br/>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/></a>
-    <br/><br/>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
+    </a>
+  </div>
+  <br/><br/>
+  <div align="center">
     <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a>
   </div>
 </details>

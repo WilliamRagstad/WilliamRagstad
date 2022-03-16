@@ -64,18 +64,18 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <details>
   <summary>GitHub Statistics</summary>
   <br/><br/>
-  <div align="left">
-    <!-- Right -->
-    <a href="https://app.daily.dev/DailyDevTips">
-      <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="300" alt="William Råagstad's Dev Card" align="right"/>
-    </a>
-    <!-- Left -->
-    <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
     </a>
-  </div>
+  <a href="https://app.daily.dev/DailyDevTips">
+    <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="350" alt="William Råagstad's Dev Card" align="right"/>
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
+  <img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg">
+  
+  <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
+  <!-- Footer -->
   <br/><br/>
   <div align="center">
     <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a>
@@ -87,27 +87,15 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 
 <details>
   <summary>Sponsors and Donations</summary>
-  <br/><br/>
-
-### 💖 Become a Sponsor
-Open source **software takes a lot of time to create** and maintain! You can help me create better developer experiences, or simply say thank you for existing projects.
-*With your support*, I will be able to **continue to develop Open-Source Software** projects for the *community*!
-**Consider supporting me** and my work along the way. With my ideas and your support, nothing is impossible!
-
-#### 🍰 Perks
-You will be **personally be mentioned** in all my future popular projects as well as being able to directly influence my work! But not only that, you will also receive one of **GitHub's sponsor badges**🎉
-
-#### ⚡ Stats
-Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** increase in **confidence**!
-
-<div align="center">
- <a href="https://github.com/sponsors/WilliamRagstad"><img src="img/sponsor.png" height="60"/></a>
-  &nbsp;
- <a href="https://www.buymeacoffee.com/williamragstad"><img src="img/coffee.png" height="70"/></a>
- <a href="https://paypal.me/williamragstad"><img src="img/paypal.png" height="70"/></a>
-</div>
-
-<br/><br/>
+  <br/>
+  <div align="center">
+    <img alt="Sponsor" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/sponsors.svg">
+   <a href="https://github.com/sponsors/WilliamRagstad"><img src="img/sponsor.png" height="60"/></a>
+    &nbsp;
+   <a href="https://www.buymeacoffee.com/williamragstad"><img src="img/coffee.png" height="70"/></a>
+   <a href="https://paypal.me/williamragstad"><img src="img/paypal.png" height="70"/></a>
+  </div>
+  <br/>
 </details>
 
 
@@ -128,7 +116,8 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 ---
 
 
-<br/><br/>
+<br/><br/><br/>
+<img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">
 
 
 #### Languages I ❤
@@ -136,23 +125,23 @@ Each sponsorship has a **x2** effect on Williams' **work pace** and a **x100** i
 <!-- All icons: https://simpleicons.org/ or https://ileriayo.github.io/markdown-badges/-->
 <p>
   <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/>
-  <img alt="RustScript" src="https://img.shields.io/badge/RustScript%20-%23fd5621.svg?&style=flat&logo=Rakuten&logoColor=white"/>
   <img alt="C#" src="https://img.shields.io/badge/C%23%20-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white"/>
-  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23946245.svg?style=flat&logo=rust&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
-  <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
 </p>
 
 #### Languages I 🧠
 
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
   <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-%23014283.svg?style=flat&logo=c&logoColor=white" />
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-%23946245.svg?style=flat&logo=rust&logoColor=white" />
+  <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+  <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
   <img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/>
   <img alt="F#" src="https://img.shields.io/badge/FSharp-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/>

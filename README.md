@@ -67,7 +67,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
   </a>
-  <a href="https://app.daily.dev/DailyDevTips">
+  <a href="https://app.daily.dev/WilliamR">
     <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="305" alt="William Råagstad's Dev Card" align="right"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
@@ -79,7 +79,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <!-- Footer -->
   <br/><br/>
   <div align="center">
-    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">Profile summary</a>
+    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a>
   </div>
 </details>
 
@@ -106,7 +106,8 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <details>
   <summary>Resume / CV</summary>
   <div align="center">
-    <a href="https://resume-github.vercel.app/WilliamRagstad">Github Resume</a> | 
+    <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Resume</a> | 
+    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a> | 
     <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> | 
     <a href="https://rxresu.me/r/mref66">Professional Resume (Short)</a>
   </div>

@@ -159,6 +159,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 
 <p>
   <img alt=".Net" src="https://img.shields.io/badge/.NET%20-5C2D91?style=flat&logo=.net&logoColor=white" />
+  <img alt="Deno" src="https://img.shields.io/badge/Deno-222?style=flat&logo=deno&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
   <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=react-router&logoColor=white" />

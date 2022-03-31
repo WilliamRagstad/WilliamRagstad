@@ -81,6 +81,9 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <div align="center">
     <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a>
   </div>
+  <a href="https://git.io/streak-stats">
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
 </details>
 
 ---

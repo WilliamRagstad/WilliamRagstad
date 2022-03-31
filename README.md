@@ -161,8 +161,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <img alt=".Net" src="https://img.shields.io/badge/.NET%20-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/Deno-222?style=flat&logo=deno&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=react-router&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-1572B6?style=flat&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white" />
@@ -174,12 +173,12 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-505050?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
-  <img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23000.svg?&style=flat&logo=flask&logoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?&style=flat&logo=markdown&logoColor=white"/>
+  <img alt="Flask" src="https://img.shields.io/badge/Flask%20-222.svg?&style=flat&logo=flask&logoColor=white"/>
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
-  <img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
+  <!--<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>
+  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>-->
   <br/>
   And many more...
 </p>

@@ -72,6 +72,9 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
+  <a href="https://git.io/streak-stats">
+      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  </a>
   <img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%">
   <img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%">
   <img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg" width="49%">
@@ -81,9 +84,6 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <div align="center">
     <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a>
   </div>
-  <a href="https://git.io/streak-stats">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
 </details>
 
 ---

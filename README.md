@@ -37,6 +37,8 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Lento-lang" target="_blank"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="54px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/SuperScript-js" target="_blank"><img alt="SuperScript" src="https://avatars0.githubusercontent.com/u/75228310?s=400&u=d19f6ba16a3fdba39095d12588359459930817a3&v=4" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.kth.se/en" target="_blank"><img alt="KTH" src="https://www.kth.se/polopoly_fs/1.77257.1600770350!/KTH_Logotyp_RGB_2013-2.svg" height="60px"></a>

@@ -24,7 +24,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 
 - 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[RustScript](https://github.com/WilliamRagstad/RustScript)**.
 - ❤ I love building **compilers** and **interpreters**!
-- ⚡ Fun fact: **I play the cello🎻**
+- ⚡ Fun fact: **I play the cello** 🎻
 
 <br/>
 
@@ -111,9 +111,9 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <details>
   <summary>Resume / CV</summary>
   <div align="center">
-    <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Resume</a> | 
-    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a> | 
-    <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> | 
+    <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Resume</a> |
+    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a> |
+    <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> |
     <a href="https://rxresu.me/r/mref66">Professional Resume (Short)</a>
   </div>
   <br/>

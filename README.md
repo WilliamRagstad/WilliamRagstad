@@ -127,14 +127,14 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">
 
 
-#### Programming Languages that I
+#### Programming Languages I
 
 <table>
   <thead>
     <tr>
       <th>Love ❤</th>
       <th>Know 🧠</th>
-      <th>Want to learn 🤔</th>
+      <th>Want to Learn 🤔</th>
     </tr>
   </thead>
   <tbody>

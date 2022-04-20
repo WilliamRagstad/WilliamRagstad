@@ -22,7 +22,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[RustScript](https://github.com/WilliamRagstad/RustScript)**.
+- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[mini](https://github.com/mini-lang/mini-lang)**.
 - ❤ I love building **compilers** and **interpreters**!
 - ⚡ Fun fact: **I play the cello** 🎻
 

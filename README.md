@@ -155,7 +155,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
         <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white" />
+        <img alt="Sass" src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
       </td>
       <td>
         <img alt="Rust" src="https://img.shields.io/badge/Rust-%23946245.svg?style=flat&logo=rust&logoColor=white" />

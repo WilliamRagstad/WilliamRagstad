@@ -146,8 +146,8 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
       </td>
       <td>
-        <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-        <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white"/>
+        <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" />
+        <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=java&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-%23014283.svg?style=flat&logo=c&logoColor=white" />
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>

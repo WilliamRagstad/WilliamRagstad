@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="797" class="large">
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="60" class="large">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.center{justify-content:center}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}.sponsors{white-space:normal;margin:0 13px 2px}.sponsors.goal{padding:6px 8px;border-radius:5px;background-color:#7777771f}.sponsors .goal-text{display:flex;justify-content:space-between;font-style:italic;font-size:10px;margin-bottom:4px}.sponsors .avatar{margin:2px}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{color:#58a6ff;text-decoration:none}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -13,123 +13,13 @@
                     </svg>
                     Sponsor me!
                 </h2>
-                <div class="fill-width">
-                    <section class="sponsors goal">
-                        <div class="markdown">I'd love to see my work gain more recognition and support! 💖</div>
-                        <div class="center horizontal-wrap ">
-                            <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="880" height="8">
-                                <mask id="project-bar">
-                                    <rect x="0" y="0" width="880" height="8" fill="white" rx="5"/>
-                                </mask>
-                                <rect mask="url(#project-bar)" x="0" y="0" width="352" height="8" fill="#ec6cb9"/>
-                                <rect mask="url(#project-bar)" x="352" y="0" width="528" height="8" fill="#d1d5da"/>
-                            </svg>
-                        </div>
-                        <div class="goal-text">
-                            <span>4 sponsors are funding WilliamRagstad's work</span>
-                            <span>10 sponsors</span>
-                        </div>
-                        <div class="row">
-                            <img class="avatar " src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mOcOnfpfwAGfgLYttYINwAAAABJRU5ErkJggg==" width="24" height="24" alt="" />
-                            <img class="avatar " src="data:image/png;base64,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" width="24" height="24" alt="" />
-                            <img class="avatar " src="data:image/png;base64,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" width="24" height="24" alt="" />
-                            <img class="avatar " src="data:image/jpeg;base64,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" width="24" height="24" alt="" />
-                        </div>
-                    </section>
-                </div>
                 <div class="row fill-width">
-                    <section class="sponsors">
-                        <div class="markdown">
-                            <h3 id="hello-👋">Hello! 👋</h3>
-                            <p>
-                                My name is William,
-I'm a
-                                <strong>Software Engineer</strong>
-                                and
-                                <strong>Computer Science</strong>
-                                student at
-                                <strong>
-                                    <a href="https://www.kth.se/">KTH</a>
-                                </strong>
-                                in
-                                <strong>Sweden</strong>
-                                <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" />
-                                .
-I love working on projects for the
-                                <strong>.NET</strong>
-                                ecosystem, building
-                                <strong>compilers</strong>
-                                ,
-                                <strong>interpreters</strong>
-                                , designing new
-                                <strong>programming languages</strong>
-                                !
-                            </p>
-                            <p>Some of my large number of Open-Source Software projects have grown quite popular, including <a href="https://github.com/WilliamRagstad/Font-Manager">Font Manager</a> — which has more than <strong>90k downloads!</strong></p>
-                            <ul>
-                                <li>
-                                    <a href="https://github.com/Lento-lang">The Lento programming language</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/mini-lang">The mini programming language</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/Font-Manager">Font-Manager</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/LavaStore">LavaStore</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/ConsoleCodeEditor">ConsoleCodeEditor</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/Pond">Pond</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/ArgumentsUtil">ArgumentsUtil</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/EzConsole">EzConsole</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/CakeLang">CakeLang</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/DataPacker">DataPacker</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/APClib">APC Library</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/VoiceCommander">VoiceCommander</a>
-                                </li>
-                                <li>
-                                    <a href="https://github.com/WilliamRagstad/ByteWriter">ByteWriter</a>
-                                </li>
-                            </ul>
-                            <h3 id="💖-sponsorship">💖 Sponsorship</h3>
-                            <p>
-                                Open-Source
-                                <strong>Software takes a lot of time to create</strong>
-                                and maintain! You can help me create better developer experiences, or simply say thank you for existing projects.
-Your sponsorship will allow me to spend more time building
-                                <strong>Open-Source Software</strong>
-                                , tools, and libraries for the
-                                <em>community</em>
-                                !
-Please consider supporting me and my work on GitHub. With my ideas and your support, nothing is impossible!
-                            </p>
-                            <h4 id="🍰-perks">🍰 Perks</h4>
-                            <p>You will be <strong>personally be mentioned</strong> in all my future popular projects as well as being able to directly influence my work! But not only that, you will also receive one of <strong>GitHub's sponsor badges</strong>🎉</p>
-                            <h4 id="⚡-stats">⚡ Stats</h4>
-                            <p>Each sponsor has a <strong>x2</strong> effect on Williams' <strong>work pace</strong> and a <strong>x100</strong> increase in <strong>confidence</strong>!</p>
-                            <div>
-                                <a href="https://www.buymeacoffee.com/williamragstad"></a>
-                                <a href="https://paypal.me/williamragstad"></a>
-                            </div>
-                            <br />
-                            <div>
-                            </div>
+                    <section>
+                        <div class="field error">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M2.343 13.657A8 8 0 1113.657 2.343 8 8 0 012.343 13.657zM6.03 4.97a.75.75 0 00-1.06 1.06L6.94 8 4.97 9.97a.75.75 0 101.06 1.06L8 9.06l1.97 1.97a.75.75 0 101.06-1.06L9.06 8l1.97-1.97a.75.75 0 10-1.06-1.06L8 6.94 6.03 4.97z"/>
+                            </svg>
+                            An error occured
                         </div>
                     </section>
                 </div>

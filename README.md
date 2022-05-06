@@ -166,6 +166,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/>
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
         <img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/>
+        <img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/>
       </td>
     </tr>
   </tbody>
@@ -191,6 +192,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-505050?style=flat&logo=gitlab&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-222.svg?&style=flat&logo=flask&logoColor=white"/>
+  <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll%20-D22.svg?&style=flat&logo=jekyll&logoColor=white"/>
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
   <!--<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>

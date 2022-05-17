@@ -155,6 +155,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-%23014283.svg?style=flat&logo=c&logoColor=white" />
         <img alt="OCaml" src="https://img.shields.io/badge/OCaml-e99100.svg?&style=flat&logo=ocaml&logoColor=white"/>
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
+        <img alt="Miking" src="https://img.shields.io/badge/Miking-333.svg?&style=flat&logo=elsevier&logoColor=white"/>
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />

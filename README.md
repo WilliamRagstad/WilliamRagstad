@@ -130,7 +130,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 <img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">
 
 
-#### Programming Languages I
+#### Programming Languages I...
 
 <table>
   <thead>
@@ -153,6 +153,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=java&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-%23014283.svg?style=flat&logo=c&logoColor=white" />
+        <img alt="OCaml" src="https://img.shields.io/badge/OCaml-e99100.svg?&style=flat&logo=ocaml&logoColor=white"/>
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
@@ -162,8 +163,9 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
       </td>
       <td>
         <img alt="Rust" src="https://img.shields.io/badge/Rust-%23946245.svg?style=flat&logo=rust&logoColor=white" />
-        <img alt="F#" src="https://img.shields.io/badge/FSharp-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/>
+        <img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" />
         <img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/>
+        <img alt="F#" src="https://img.shields.io/badge/FSharp-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/>
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
         <img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/>
         <img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/>
@@ -173,7 +175,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 </table>
 <!-- All icons: https://simpleicons.org/ or https://ileriayo.github.io/markdown-badges/-->
 
-#### Technologies I've worked with ⚡
+#### Other Languages and Technologies I've worked with ⚡
 
 <p>
   <img alt=".Net" src="https://img.shields.io/badge/.NET%20-5C2D91?style=flat&logo=.net&logoColor=white" />

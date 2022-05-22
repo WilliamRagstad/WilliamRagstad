@@ -73,7 +73,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
     <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
   </a>
   <a href="https://app.daily.dev/WilliamR">
-    <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard_diamond.svg" width="305" alt="William Råagstad's Dev Card" align="right"/>
+    <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="305" alt="William Råagstad's Dev Card" align="right"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>

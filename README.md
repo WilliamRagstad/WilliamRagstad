@@ -179,6 +179,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <a href="https://vlang.io/"><img alt="V" src="https://img.shields.io/badge/V-536b8a.svg?&style=flat&logo=v&logoColor=white"/></a>
         <a href="https://nim-lang.org/"><img alt="Nim" src="https://img.shields.io/badge/Nim-d39400.svg?&style=flat&logo=nim&logoColor=white"/></a>
         <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
+        <a href="https://www.roc-lang.org/"><img alt="Roc" src="https://img.shields.io/badge/Roc-633ddf.svg?&style=flat&logo=fluentd&logoColor=white"/></a>
       </td>
     </tr>
   </tbody>

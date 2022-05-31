@@ -201,8 +201,8 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
   <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
   <!--<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>-->
+  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>
   <br/>
   And many more...
 </p>

@@ -155,7 +155,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=java&logoColor=white"/>
         <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-%23014283.svg?style=flat&logo=c&logoColor=white" />
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-%238f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
-        <img alt="Miking" src="https://img.shields.io/badge/Miking-333.svg?&style=flat&logo=elsevier&logoColor=white"/>
+        <a href="https://github.com/miking-lang/miking"><img alt="Miking" src="https://img.shields.io/badge/Miking-333.svg?&style=flat&logo=elsevier&logoColor=white"/></a>
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
@@ -170,8 +170,8 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
         <img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/>
         <img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/>
-        <img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/>
-        <img alt="Grain" src="https://img.shields.io/badge/Grain-ff850e.svg?&style=flat&logo=valorant&logoColor=white"/>
+        <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
+        <a href="https://grain-lang.org/"><img alt="Grain" src="https://img.shields.io/badge/Grain-ff850e.svg?&style=flat&logo=valorant&logoColor=white"/></a>
       </td>
     </tr>
   </tbody>

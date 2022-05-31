@@ -143,13 +143,14 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <tbody>
     <tr>
       <td>
-        <img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/>
-        <img alt="mini" src="https://img.shields.io/badge/mini-439f46.svg?&style=flat&logo=oracle&logoColor=white"/>
+        <a href="https://github.com/lento-lang"><img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/></a>
+        <a href="https://github.com/mini-lang"><img alt="mini" src="https://img.shields.io/badge/mini-439f46.svg?&style=flat&logo=oracle&logoColor=white"/></a>
         <img alt="C#" src="https://img.shields.io/badge/C%23%20-5C2D91.svg?&style=flat&logo=c-sharp&logoColor=white"/>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
         <img alt="Rust" src="https://img.shields.io/badge/Rust-bf501c.svg?style=flat&logo=rust&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" />
         <img alt="OCaml" src="https://img.shields.io/badge/OCaml-e99100.svg?&style=flat&logo=ocaml&logoColor=white"/>
+        <a href="https://github.com/mkhan45/RustScript2"><img alt="RustScript" src="https://img.shields.io/badge/RustScript-d84315.svg?&style=flat&logo=discogs&logoColor=white"/></a>
       </td>
       <td>
         <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=java&logoColor=white"/>

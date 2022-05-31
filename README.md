@@ -170,8 +170,14 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
         <img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
         <img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/>
         <img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/>
-        <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
         <a href="https://grain-lang.org/"><img alt="Grain" src="https://img.shields.io/badge/Grain-ff850e.svg?&style=flat&logo=valorant&logoColor=white"/></a>
+        <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
+        <a href="https://rescript-lang.org/"><img alt="ReScript" src="https://img.shields.io/badge/ReScript-d13d3d.svg?&style=flat&logo=rescript&logoColor=white"/></a>
+        <a href="https://ziglang.org/"><img alt="Zig" src="https://img.shields.io/badge/Zig-f7a41d.svg?&style=flat&logo=zig&logoColor=white"/></a>
+        <a href="https://vlang.io/"><img alt="V" src="https://img.shields.io/badge/V-536b8a.svg?&style=flat&logo=v&logoColor=white"/></a>
+        <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
+        <a href="https://nim-lang.org/"><img alt="Nim" src="https://img.shields.io/badge/Nim-d39400.svg?&style=flat&logo=nim&logoColor=white"/></a>
+        <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ab37f3.svg?&style=flat&logo=kotlin&logoColor=white"/></a>
       </td>
     </tr>
   </tbody>

@@ -77,7 +77,7 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
   <summary>Sponsors and Donations</summary>
   <br/>
   <div align="center">
-    <img alt="Sponsor" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/sponsors.svg">
+    <!-- <img alt="Sponsor" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/sponsors.svg"> -->
    <a href="https://github.com/sponsors/WilliamRagstad"><img src="img/sponsor.png" height="60"/></a>
     &nbsp;
    <a href="https://www.buymeacoffee.com/williamragstad"><img src="img/coffee.png" height="70"/></a>

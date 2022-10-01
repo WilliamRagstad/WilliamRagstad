@@ -30,39 +30,18 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 
 <h2>Projects</h2>
 <p align="center">
+  <a href="https://github.com/Lento-lang" target="_blank"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="54px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/Lento-lang" target="_blank"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="54px"></a>
-  &nbsp;
-  <a href="https://github.com/WilliamRagstad/RustScript" target="_blank"><img alt="RustScript-lang" src="https://github.com/WilliamRagstad/RustScript/blob/main/assets/icon_compressed.png" height="60px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/SuperScript-js" target="_blank"><img alt="SuperScript" src="https://avatars0.githubusercontent.com/u/75228310?s=400&u=d19f6ba16a3fdba39095d12588359459930817a3&v=4" height="60px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kth.se/en" target="_blank"><img alt="KTH" src="https://www.kth.se/polopoly_fs/1.77257.1600770350!/KTH_Logotyp_RGB_2013-2.svg" height="60px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.stacken.kth.se/en/" target="_blank"><img alt="Stacken" src="https://www.stacken.kth.se/images/stacken.png" height="60px"></a>
-  &nbsp;&nbsp;
   <a href="https://projlette.com/" target="_blank"><img alt="Projlette" src="https://projlette.com/logo.svg" height="55px"></a>
 </p>
 
-
-
-<br/><br/>
-
-<div align="center">
-  <h3>View all of my Gists on:</h3>
-  <a href="https://gist.github.com/WilliamRagstad" target="_blank">
-    <img src="img/gist.png" width="300px">
-  </a>
-</div>
-
-<br/><br/>
-
-
+<br/>
 
 ---
 

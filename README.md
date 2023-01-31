@@ -5,14 +5,21 @@
 <br/>
 <br/>
 <h3>
-  <img src="img/wave_transp_cropped.gif" height="28"/> Hello, and Welcome!
+   Hello, and Welcome! <img src="img/wave_transp_cropped.gif" height="28"/>
 </h3>
 
-My name is **William**,
-I'm a **Software Engineer** and **Full-Stack Developer**, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:.
-Sitting board member of the computer club [Stacken](http://stacken.kth.se/) and member of the ACM Special Interest Group on Programming Languages. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/)
+⤷  My name is **William**,
+I am a **Software Engineer**, **Full-Stack Developer** and **Inventor** with a passion for technology and innovation, currently studying **Computer Science** and working at [KTH](https://www.kth.se/) in **Sweden** :sweden:.
+Alumni board member of the computer club [Stacken](http://stacken.kth.se/), and
+member of the **ACM Special Interest Group on Programming Languages**. [![](https://img.shields.io/badge/SIGPLAN%20-%236666cc.svg?&style=flat&logo=acm&logoColor=white/>)](https://www.sigplan.org/)
 
-I create awesome Open-Source Software, Tools and Apps for developers. My large set of projects includes the [Lento language](https://github.com/Lento-lang), [RustScript language](https://github.com/WilliamRagstad/RustScript), [APC Library](https://github.com/APCLib) and [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — having more than **90k downloads!** 🎉
+### Creator of awesome OSS and innovative technology 🚀
+
+⤷  My area of interest lies in crafting high quality Open-Source Software, Tools and Apps for developers
+I have extensive experience in constructing diverse applications and have a track record of developing innovative technology.
+My pursuit of excellence and my commitment to making a positive contribution to the tech community drives me to continuously improve my skills and knowledge.
+
+_Some_ of the projects and contributions in my portfolio encompasses e.g the development of new programming languages such as, [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
 <!--
 - 🔭 I’m currently working on ...
@@ -22,9 +29,16 @@ I create awesome Open-Source Software, Tools and Apps for developers. My large s
 - 📫 How to reach me: ...
 -->
 
-- 🔭 I’m currently working on **[Lento](https://github.com/Lento-lang)** and **[mini](https://github.com/mini-lang/mini-lang)**.
-- ❤ I love building **compilers** and **interpreters**!
-- ⚡ Fun fact: **I play the cello** 🎻
+- 🏠 Based in Sweden
+- 🔭 Currently working on **[Lento](https://github.com/Lento-lang)**
+- ❤ I love designing **programming languages**
+- ⚡ Fun fact, **I play the cello** 🎻
+
+
+<!-- Social Networks -->
+
+<a aligh="left" href="https://williamr.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/WilliamRagstad" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/WilliamRagstad" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+
 
 <br/>
 

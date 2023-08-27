@@ -220,8 +220,8 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   And many more...
 </p>
 
-Some even call me a **10x [Rockstar](https://github.com/RockstarLang/rockstar) developer**! 🌟 \
-Recruiters, [read this](https://hackernoon.com/the-myth-of-a-rockstar-developer-e6564bd51b5c).
+> Some even call me a **10x [Rockstar](https://github.com/RockstarLang/rockstar) developer**! 🌟 \
+> Recruiters, [read this](https://hackernoon.com/the-myth-of-a-rockstar-developer-e6564bd51b5c).
 
 #### Follow me on my social media 🤖
 

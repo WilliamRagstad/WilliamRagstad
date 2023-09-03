@@ -239,7 +239,7 @@ OR visit me on [my website](https://www.williamragstad.com/) if you'd like to ge
 
 
 <div align="center">
-<img alt="visitors" src= "https://visitor-badge.glitch.me/badge?page_id=WilliamRagstad.WilliamRagstad"/>
+  <img alt="visitors" src="https://komarev.com/ghpvc/?username=WilliamRagstad&style=for-the-badge"/>
 </div>
 
 <div align="center">

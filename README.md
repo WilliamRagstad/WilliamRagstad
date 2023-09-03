@@ -50,7 +50,7 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://apc.wiki/images/logo.png" height="60px"></a>
+  <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://avatars.githubusercontent.com/u/69253022?s=200&v=4" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://projlette.com/" target="_blank"><img alt="Projlette" src="https://projlette.com/logo.svg" height="55px"></a>
 </p>

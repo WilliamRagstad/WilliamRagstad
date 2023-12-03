@@ -171,6 +171,8 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
         <img alt="SQL" src="https://img.shields.io/badge/SQL-3E6E93.svg?&style=flat&logo=mysql&logoColor=white"/>
         <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-252525?style=flat&logo=wolfram&logoColor=ba1c12" />
+        <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
+        <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
       </td>
       <td>
         <a href="https://vlang.io/"><img alt="V" src="https://img.shields.io/badge/V-536b8a.svg?&style=flat&logo=v&logoColor=white"/></a>
@@ -189,6 +191,7 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
         <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
         <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
         <a href="https://rescript-lang.org/"><img alt="ReScript" src="https://img.shields.io/badge/ReScript-d13d3d.svg?&style=flat&logo=rescript&logoColor=white"/></a>
+        <a href="https://typst.app/"><img alt="Typst" src="https://img.shields.io/badge/Typst-00afc6.svg?&style=flat&logo=tumblr&logoColor=white"/></a>
       </td>
     </tr>
   </tbody>
@@ -215,8 +218,6 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   <img alt="Docker" src="https://img.shields.io/badge/Docker%20-%230db7ed.svg?&style=flat&logo=docker&logoColor=white"/>
   <img alt="Flask" src="https://img.shields.io/badge/Flask%20-222.svg?&style=flat&logo=flask&logoColor=white"/>
   <img alt="Jekyll" src="https://img.shields.io/badge/Jekyll%20-D22.svg?&style=flat&logo=jekyll&logoColor=white"/>
-  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
-  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
   <!--<img alt="Adobe XD" src="https://img.shields.io/badge/Adobe%20XD%20-%23FF26BE.svg?&style=flat&logo=adobe%20xd&logoColor=white"/>
   <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white"/>-->
   <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=flat&logo=Raspberry-Pi"/>

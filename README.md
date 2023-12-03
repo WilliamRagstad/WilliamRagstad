@@ -211,7 +211,6 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   <img alt="Firebase" src="https://img.shields.io/badge/Firebase%20-%23039BE5.svg?&style=flat&logo=firebase"/>
   <img alt="jQuery" src="https://img.shields.io/badge/JQuery-0769AD?style=flat&logo=jQuery&logoColor=white" />
   <img alt="Apache" src="https://img.shields.io/badge/Apache%20-%23D42029.svg?&style=flat&logo=apache&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat&logo=mysql&logoColor=white"/>
   <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub%20-%23121011.svg?&style=flat&logo=github&logoColor=white"/>
   <img alt="gitlab" src="https://img.shields.io/badge/GitLab-505050?style=flat&logo=gitlab&logoColor=white" />

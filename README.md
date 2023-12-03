@@ -152,39 +152,42 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
       </td>
       <td>
         <img alt="Rust" src="https://img.shields.io/badge/Rust-bf501c.svg?style=flat&logo=rust&logoColor=white" />
+        <a href="https://fsharp.org/"><img alt="F#" src="https://img.shields.io/badge/F%23-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/></a>
         <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
         <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" />
-        <img alt="C#" src="https://img.shields.io/badge/C%23%20-5C2D91.svg?&style=flat&logo=c-sharp&logoColor=white"/>
+        <img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91.svg?&style=flat&logo=c%23&logoColor=white"/>
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
       </td>
       <td>
         <img alt="C/C++" src="https://img.shields.io/badge/C%2FC%2B%2B-1572B6.svg?style=flat&logo=c&logoColor=white" />
-        <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=java&logoColor=white"/>
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-8f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
         <img alt="OCaml" src="https://img.shields.io/badge/OCaml-e99100.svg?&style=flat&logo=ocaml&logoColor=white"/>
-        <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
+        <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=oracle&logoColor=white"/>
         <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
         <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
         <img alt="Sass" src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+        <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
+        <img alt="SQL" src="https://img.shields.io/badge/SQL-3E6E93.svg?&style=flat&logo=mysql&logoColor=white"/>
+        <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-252525?style=flat&logo=wolfram&logoColor=ba1c12" />
       </td>
       <td>
-        <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
-        <a href="https://www.haskell.org/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/></a>
-        <a href="https://fsharp.org/"><img alt="F#" src="https://img.shields.io/badge/FSharp-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/></a>
-        <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
-        <a href="https://elm-lang.org/"><img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/></a>
-        <a href="https://clojure.org/"><img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/></a>
-        <a href="https://grain-lang.org/"><img alt="Grain" src="https://img.shields.io/badge/Grain-ff850e.svg?&style=flat&logo=valorant&logoColor=white"/></a>
+        <a href="https://vlang.io/"><img alt="V" src="https://img.shields.io/badge/V-536b8a.svg?&style=flat&logo=v&logoColor=white"/></a>
         <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ab37f3.svg?&style=flat&logo=kotlin&logoColor=white"/></a>
-        <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
-        <a href="https://rescript-lang.org/"><img alt="ReScript" src="https://img.shields.io/badge/ReScript-d13d3d.svg?&style=flat&logo=rescript&logoColor=white"/></a>
+        <a href="https://www.scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/Scala-dd3734.svg?&style=flat&logo=scala&logoColor=white"/></a>
         <a href="https://www.ruby-lang.org/"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-d13d3d.svg?&style=flat&logo=ruby&logoColor=white"/></a>
         <a href="https://ziglang.org/"><img alt="Zig" src="https://img.shields.io/badge/Zig-f7a41d.svg?&style=flat&logo=zig&logoColor=white"/></a>
-        <a href="https://vlang.io/"><img alt="V" src="https://img.shields.io/badge/V-536b8a.svg?&style=flat&logo=v&logoColor=white"/></a>
-        <a href="https://nim-lang.org/"><img alt="Nim" src="https://img.shields.io/badge/Nim-d39400.svg?&style=flat&logo=nim&logoColor=white"/></a>
-        <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
+        <a href="https://www.haskell.org/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/></a>
+        <a href="https://clojure.org/"><img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/></a>
+        <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
+        <a href="https://grain-lang.org/"><img alt="Grain" src="https://img.shields.io/badge/Grain-ff850e.svg?&style=flat&logo=valorant&logoColor=white"/></a>
         <a href="https://www.roc-lang.org/"><img alt="Roc" src="https://img.shields.io/badge/Roc-633ddf.svg?&style=flat&logo=fluentd&logoColor=white"/></a>
+        <a href="https://elm-lang.org/"><img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/></a>
+        <a href="https://nim-lang.org/"><img alt="Nim" src="https://img.shields.io/badge/Nim-d39400.svg?&style=flat&logo=nim&logoColor=white"/></a>
+        <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
+        <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
+        <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
+        <a href="https://rescript-lang.org/"><img alt="ReScript" src="https://img.shields.io/badge/ReScript-d13d3d.svg?&style=flat&logo=rescript&logoColor=white"/></a>
       </td>
     </tr>
   </tbody>

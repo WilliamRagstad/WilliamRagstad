@@ -247,5 +247,5 @@ OR visit me on [my website](https://www.williamragstad.com/) if you'd like to ge
 </div>
 
 <div align="center">
-    <img src="/img/footer-wave-blue.png" width="100%" height="150px"/>
+    <img src="/img/waves.svg" width="100%" height="150px">
 </div>

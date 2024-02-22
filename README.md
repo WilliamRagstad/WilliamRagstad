@@ -21,6 +21,14 @@ My pursuit of excellence and my commitment to making a positive contribution to 
 
 _Some_ of the projects and contributions in my portfolio encompasses e.g the development of new programming languages such as, [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
+<br>
+<br>
+
+---
+
+<img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%" align="right">
+
+#### Fun facts
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -34,15 +42,14 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
 - ❤ I love designing **programming languages**
 - ⚡ Fun fact, **I play the cello** 🎻
 
-
 <!-- Social Networks -->
 
 <a aligh="left" href="https://williamr.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/WilliamRagstad" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/william-ragstad/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 
+<br>
+<br>
 
-<br/>
-
-<h2>Projects</h2>
+<h2>Featured Projects</h2>
 <p align="center">
   <a href="https://github.com/Lento-lang" target="_blank"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,21 +69,23 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
 <details>
   <summary>GitHub Statistics</summary>
   <br/><br/>
+  <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
-  </a>
-  <a href="https://app.daily.dev/WilliamR">
-    <img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" width="305" alt="William Råagstad's Dev Card" align="right"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
   <a href="https://git.io/streak-stats">
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
   </a>
-  <img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%">
+  
+  <div align="center">
+    <a href="https://app.daily.dev/williamr"><img src="https://api.daily.dev/devcards/v2/Tw5wcZYcjTxL0S4KLIpYA.png" height="400" alt="William's Dev Card"/></a>
+    <a href="https://app.daily.dev/WilliamR"><img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" height="370" alt="William's Dev Card"/></a>
+  </div>
+  
   <img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%">
   <img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg" width="49%">
-  <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
   <!-- Footer -->
   <br/><br/>
   <div align="center">

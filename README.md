@@ -196,6 +196,7 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
         <a href="https://www.roc-lang.org/"><img alt="Roc" src="https://img.shields.io/badge/Roc-633ddf.svg?&style=flat&logo=fluentd&logoColor=white"/></a>
         <a href="https://elm-lang.org/"><img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/></a>
         <a href="https://nim-lang.org/"><img alt="Nim" src="https://img.shields.io/badge/Nim-d39400.svg?&style=flat&logo=nim&logoColor=white"/></a>
+        <a href="https://haxe.org/"><img alt="Zig" src="https://img.shields.io/badge/Haxe-f7a41d.svg?&style=flat&logo=haxe&logoColor=white"/></a>
         <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
         <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
         <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>

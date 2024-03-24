@@ -61,6 +61,8 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://avatars.githubusercontent.com/u/69253022?s=200&v=4" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/ANSIConsole" target="_blank"><img alt="ANSIConsole" src="https://raw.githubusercontent.com/WilliamRagstad/ANSIConsole/main/assets/logo_cropped.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
 </p>
 

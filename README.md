@@ -50,20 +50,49 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
 <br>
 
 <h2>Featured Projects</h2>
+<br/>
+<br/>
+  
 <p align="center">
   <a href="https://github.com/Lento-lang" target="_blank"><img alt="Lento-lang" src="https://avatars.githubusercontent.com/u/79858627" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="54px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/webx-net/webx" target="_blank"><img alt="WebX" src="https://github.com/webx-net/webx/raw/master/assets/logo.png" height="50px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
+  <br/>
+  <br/>
   <br/>
   <a href="https://github.com/WilliamRagstad/RustScript" target="_blank"><img alt="RustScript" src="https://raw.githubusercontent.com/WilliamRagstad/RustScript/main/assets/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/APClib" target="_blank"><img alt="APC Lib" src="https://avatars.githubusercontent.com/u/69253022?s=200&v=4" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/AFK-Script" target="_blank"><img alt="AFK Script" src="https://github.com/WilliamRagstad/AFK-Script/raw/master/AFK-Script-Interpreter/icon.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/ANSIConsole" target="_blank"><img alt="ANSIConsole" src="https://raw.githubusercontent.com/WilliamRagstad/ANSIConsole/main/assets/logo_cropped.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
+  <a href="https://github.com/WilliamRagstad/Knight" target="_blank"><img alt="Knight" src="https://raw.githubusercontent.com/WilliamRagstad/Knight/main/assets/logo.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/LavaStore-Deno" target="_blank"><img alt="LavaStore" src="https://raw.githubusercontent.com/WilliamRagstad/LavaStore-Deno/main/assets/logo.png" height="60px"></a>
+  <br/>
+  <a href="https://github.com/WilliamRagstad/Regfuz" target="_blank"><img alt="Regfuz" src="https://raw.githubusercontent.com/WilliamRagstad/Regfuz/main/logo.png" height="47px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/Dog" target="_blank"><img alt="Dog" src="https://github.com/WilliamRagstad/Dog/raw/main/Assets/logo.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/Template-HTML" target="_blank"><img alt="TMPL" src="https://github.com/WilliamRagstad/Template-HTML/raw/main/assets/drop.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/Pond" target="_blank"><img alt="Pond" src="https://github.com/WilliamRagstad/Pond/raw/master/assets/logo.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/WireframeImages" target="_blank"><img alt="WireframeImages" src="https://github.com/WilliamRagstad/WireframeImages/raw/master/assets/ship.png" height="60px"></a>
+  <br/>
+  <a href="https://github.com/WilliamRagstad/ConsoleCodeEditor" target="_blank"><img alt="CCE" src="https://github.com/WilliamRagstad/ConsoleCodeEditor/raw/master/logo.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/EzConsole" target="_blank"><img alt="EzConsole" src="https://github.com/WilliamRagstad/EzConsole/raw/master/console.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/ArgumentsUtil" target="_blank"><img alt="ArgumentsUtil" src="https://github.com/WilliamRagstad/ArgumentsUtil/raw/master/logo.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/NeatMathCore" target="_blank"><img alt="NeatMathCore" src="https://github.com/WilliamRagstad/NeatMathCore/raw/master/assets/logo.png" height="60px"></a>
 </p>
 
 <br/>

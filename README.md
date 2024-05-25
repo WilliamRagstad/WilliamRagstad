@@ -217,6 +217,7 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
         <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
       </td>
       <td>
+        <a href="https://lean-lang.org/"><img alt="lean4" src="https://img.shields.io/badge/Lean%204-222.svg?&style=flat&logo=lospec&logoColor=white"/></a>
         <a href="https://vlang.io/"><img alt="V" src="https://img.shields.io/badge/V-536b8a.svg?&style=flat&logo=v&logoColor=white"/></a>
         <a href="https://kotlinlang.org/"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-ab37f3.svg?&style=flat&logo=kotlin&logoColor=white"/></a>
         <a href="https://www.scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/Scala-dd3734.svg?&style=flat&logo=scala&logoColor=white"/></a>
@@ -225,6 +226,7 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
         <a href="https://www.haskell.org/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/></a>
         <a href="https://clojure.org/"><img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/></a>
         <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
+        <a href="https://github.com/sophiajt/june"><img alt="June" src="https://img.shields.io/badge/June-e2355e.svg?&style=flat&logo=jameson&logoColor=white"/></a>
         <a href="https://grain-lang.org/"><img alt="Grain" src="https://img.shields.io/badge/Grain-ff850e.svg?&style=flat&logo=valorant&logoColor=white"/></a>
         <a href="https://www.roc-lang.org/"><img alt="Roc" src="https://img.shields.io/badge/Roc-633ddf.svg?&style=flat&logo=fluentd&logoColor=white"/></a>
         <a href="https://elm-lang.org/"><img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/></a>

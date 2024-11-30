@@ -80,8 +80,6 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/Dog" target="_blank"><img alt="Dog" src="https://github.com/WilliamRagstad/Dog/raw/main/Assets/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/WilliamRagstad/Template-HTML" target="_blank"><img alt="TMPL" src="https://github.com/WilliamRagstad/Template-HTML/raw/main/assets/drop.png" height="60px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/Pond" target="_blank"><img alt="Pond" src="https://github.com/WilliamRagstad/Pond/raw/master/assets/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/WireframeImages" target="_blank"><img alt="WireframeImages" src="https://github.com/WilliamRagstad/WireframeImages/raw/master/assets/ship.png" height="60px"></a>

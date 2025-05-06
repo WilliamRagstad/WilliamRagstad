@@ -147,10 +147,10 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
 <details>
   <summary>Resume / CV</summary>
   <div align="center">
-    <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Resume</a> |
-    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a> |
-    <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a> |
-    <a href="https://rxresu.me/r/mref66">Professional Resume (Short)</a>
+    <a href="https://williamr.dev/resume/">Professional Resume</a> |
+    <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Summary 1</a> |
+    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary 2</a> |
+    <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a>
   </div>
   <br/>
 </details>

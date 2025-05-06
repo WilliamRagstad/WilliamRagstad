@@ -208,16 +208,12 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
         <img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91.svg?&style=flat&logo=c%23&logoColor=white"/>
         <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1572B6.svg?style=flat&logo=c%2B%2B&logoColor=white" />
         <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
-        <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=oracle&logoColor=white"/>
+        <a href="https://www.haskell.org/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/></a>
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-8f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
-        <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
-        <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
-        <img alt="Sass" src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+        <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
+        <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=oracle&logoColor=white"/>
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
         <img alt="SQL" src="https://img.shields.io/badge/SQL-3E6E93.svg?&style=flat&logo=mysql&logoColor=white"/>
-        <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-252525?style=flat&logo=wolfram&logoColor=ba1c12" />
-        <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
-        <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
       </td>
       <td>
         <a href="https://lean-lang.org/"><img alt="lean4" src="https://img.shields.io/badge/Lean%204-222.svg?&style=flat&logo=lospec&logoColor=white"/></a>
@@ -226,7 +222,6 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
         <a href="https://www.scala-lang.org/"><img alt="Scala" src="https://img.shields.io/badge/Scala-dd3734.svg?&style=flat&logo=scala&logoColor=white"/></a>
         <a href="https://www.ruby-lang.org/"><img alt="Ruby" src="https://img.shields.io/badge/Ruby-d13d3d.svg?&style=flat&logo=ruby&logoColor=white"/></a>
         <a href="https://ziglang.org/"><img alt="Zig" src="https://img.shields.io/badge/Zig-f7a41d.svg?&style=flat&logo=zig&logoColor=white"/></a>
-        <a href="https://www.haskell.org/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/></a>
         <a href="https://clojure.org/"><img alt="Clojure" src="https://img.shields.io/badge/Clojure-009245.svg?&style=flat&logo=clojure&logoColor=white"/></a>
         <a href="https://dart.dev/"><img alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" /></a>
         <a href="https://github.com/sophiajt/june"><img alt="June" src="https://img.shields.io/badge/June-e2355e.svg?&style=flat&logo=jameson&logoColor=white"/></a>
@@ -235,7 +230,6 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
         <a href="https://elm-lang.org/"><img alt="Elm" src="https://img.shields.io/badge/Elm-%231293d8.svg?&style=flat&logo=elm&logoColor=white"/></a>
         <a href="https://nim-lang.org/"><img alt="Nim" src="https://img.shields.io/badge/Nim-d39400.svg?&style=flat&logo=nim&logoColor=white"/></a>
         <a href="https://haxe.org/"><img alt="Zig" src="https://img.shields.io/badge/Haxe-f7a41d.svg?&style=flat&logo=haxe&logoColor=white"/></a>
-        <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
         <a href="https://crystal-lang.org/"><img alt="Crystal" src="https://img.shields.io/badge/Crystal-222.svg?&style=flat&logo=crystal&logoColor=white"/></a>
         <a href="https://reasonml.github.io/"><img alt="Reason" src="https://img.shields.io/badge/Reason-dd4b39.svg?&style=flat&logo=reason&logoColor=white"/></a>
         <a href="https://rescript-lang.org/"><img alt="ReScript" src="https://img.shields.io/badge/ReScript-d13d3d.svg?&style=flat&logo=rescript&logoColor=white"/></a>
@@ -252,6 +246,12 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   <img alt=".Net" src="https://img.shields.io/badge/.NET%20-5C2D91?style=flat&logo=.net&logoColor=white" />
   <img alt="Deno" src="https://img.shields.io/badge/Deno-222?style=flat&logo=deno&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img alt="Sass" src="https://img.shields.io/badge/SCSS-CC6699?style=flat&logo=sass&logoColor=white" />
+  <img alt="Mathematica" src="https://img.shields.io/badge/Mathematica-252525?style=flat&logo=wolfram&logoColor=ba1c12" />
+  <img alt="Markdown" src="https://img.shields.io/badge/Markdown-444.svg?&style=flat&logo=markdown&logoColor=white"/>
+  <img alt="LaTeX" src="https://img.shields.io/badge/LaTeX%20-%23008080.svg?&style=flat&logo=latex&logoColor=white"/>
   <img alt="React" src="https://img.shields.io/badge/React-1572B6?style=flat&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" />
   <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D?style=flat&logo=vue.js&logoColor=white" />

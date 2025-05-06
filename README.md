@@ -59,8 +59,6 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="54px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/webx-net/webx" target="_blank"><img alt="WebX" src="https://github.com/webx-net/webx/raw/main/assets/webx.png" height="45px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
   <br/>
   <br/>
   <br/>
@@ -83,7 +81,11 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   <a href="https://github.com/WilliamRagstad/Pond" target="_blank"><img alt="Pond" src="https://github.com/WilliamRagstad/Pond/raw/master/assets/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/WireframeImages" target="_blank"><img alt="WireframeImages" src="https://github.com/WilliamRagstad/WireframeImages/raw/master/assets/ship.png" height="60px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://refined-github-html-preview.kidonng.workers.dev/WilliamRagstad/ants/raw/refs/heads/main/index.html" target="_blank"><img alt="Ants" src="http://www.eccesignum.org/wp-content/uploads/2020/09/20200914-langton-1.png" height="60px"></a>
   <br/>
+  <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/ConsoleCodeEditor" target="_blank"><img alt="CCE" src="https://github.com/WilliamRagstad/ConsoleCodeEditor/raw/master/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/EzConsole" target="_blank"><img alt="EzConsole" src="https://github.com/WilliamRagstad/EzConsole/raw/master/console.png" height="60px"></a>

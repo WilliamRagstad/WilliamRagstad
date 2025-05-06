@@ -59,6 +59,8 @@ _Some_ of the projects and contributions in my portfolio encompasses e.g the dev
   <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="54px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/webx-net/webx" target="_blank"><img alt="WebX" src="https://github.com/webx-net/webx/raw/main/assets/webx.png" height="45px"></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/WilliamRagstad/gsh" target="_blank"><img alt="Gsh" src="https://raw.githubusercontent.com/WilliamRagstad/gsh/refs/heads/main/assets/logo.png" height="75px"></a>
   <br/>
   <br/>
   <br/>

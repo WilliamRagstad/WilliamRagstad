@@ -213,7 +213,6 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
         <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
         <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=oracle&logoColor=white"/>
         <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=flat&logo=php&logoColor=white"/>
-        <img alt="SQL" src="https://img.shields.io/badge/SQL-3E6E93.svg?&style=flat&logo=mysql&logoColor=white"/>
       </td>
       <td>
         <a href="https://lean-lang.org/"><img alt="lean4" src="https://img.shields.io/badge/Lean%204-222.svg?&style=flat&logo=lospec&logoColor=white"/></a>
@@ -244,6 +243,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 
 <p>
   <img alt=".Net" src="https://img.shields.io/badge/.NET%20-5C2D91?style=flat&logo=.net&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-3E6E93.svg?&style=flat&logo=mysql&logoColor=white"/>
   <img alt="Deno" src="https://img.shields.io/badge/Deno-222?style=flat&logo=deno&logoColor=white" />
   <img alt="Node" src="https://img.shields.io/badge/Node-339933?style=flat&logo=node.js&logoColor=white" />
   <img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=Html5&logoColor=white" />

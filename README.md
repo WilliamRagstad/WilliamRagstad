@@ -104,11 +104,11 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 <details>
   <summary>GitHub Statistics</summary>
   <br/><br/>
-  <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
+  <!-- <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg"> -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
   <a href="https://git.io/streak-stats">
       <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
@@ -164,7 +164,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 
 
 <br/><br/><br/>
-<img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">
+<!-- <img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">-->
 
 
 #### Programming Languages I...
@@ -283,7 +283,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   <a href="https://www.twitch.tv/williamragstad" target="_blank"><img src="https://img.shields.io/badge/WilliamRagstad%20-%2365469c.svg?&style=flat&logo=Twitch&logoColor=white"/></a>
 </p>
 
-OR visit me on [my website](https://www.williamragstad.com/) if you'd like to get to know me more.
+OR visit my website [williamr.dev](https://www.williamr.dev/) to get to know me better.
 
 
 <br/><br/>

@@ -197,18 +197,18 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
       </td>
       <td>
         <img alt="Rust" src="https://img.shields.io/badge/Rust-bf501c.svg?style=flat&logo=rust&logoColor=white" />
-        <a href="https://fsharp.org/"><img alt="F#" src="https://img.shields.io/badge/F%23-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/></a>
-        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
-        <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" />
-        <img alt="OCaml" src="https://img.shields.io/badge/OCaml-e99100.svg?&style=flat&logo=ocaml&logoColor=white"/>
         <img alt="C" src="https://img.shields.io/badge/C-1572B6.svg?style=flat&logo=c&logoColor=white" />
+        <a href="https://fsharp.org/"><img alt="F#" src="https://img.shields.io/badge/F%23-%233587b4.svg?&style=flat&logo=feedly&logoColor=white"/></a>
+        <img alt="OCaml" src="https://img.shields.io/badge/OCaml-e99100.svg?&style=flat&logo=ocaml&logoColor=white"/>
+        <img alt="Python" src="https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white" />
+        <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typeScript&logoColor=white" />
         <img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%23207bcd.svg?&style=flat&logo=powershell&logoColor=white"/>
       </td>
       <td>
         <img alt="C#" src="https://img.shields.io/badge/C%23-5C2D91.svg?&style=flat&logo=c%23&logoColor=white"/>
         <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-1572B6.svg?style=flat&logo=c%2B%2B&logoColor=white" />
-        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <a href="https://www.haskell.org/"><img alt="Haskell" src="https://img.shields.io/badge/Haskell-%238f4e8b.svg?&style=flat&logo=haskell&logoColor=white"/></a>
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
         <img alt="Elixir" src="https://img.shields.io/badge/Elixir-8f4e8b.svg?&style=flat&logo=elixir&logoColor=white"/>
         <a href="https://go.dev/"><img alt="Go" src="https://img.shields.io/badge/Go-29BEB0.svg?style=flat&logo=go&logoColor=white" /></a>
         <img alt="Java" src="https://img.shields.io/badge/Java-E78625?&style=flat&logo=oracle&logoColor=white"/>

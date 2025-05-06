@@ -21,8 +21,6 @@ My pursuit of excellence and my commitment to making a positive contribution to 
 
 _Some_ of the projects and contributions in my portfolio encompass e.g. the development of new programming languages such as [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
-<br>
-<br>
 
 ---
 
@@ -43,14 +41,14 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 - ⚡ Fun fact, **I play the cello** 🎻
 
 <!-- Social Networks -->
-
+<!--
 <a aligh="left" href="https://williamr.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/WilliamRagstad" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/william-ragstad/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
+-->
 
 <br>
-<br>
+<br/>
 
 <h2>Featured Projects</h2>
-<br/>
 <br/>
   
 <p align="center">
@@ -163,10 +161,8 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 
 ---
 
-
-<br/><br/><br/>
+<br/>
 <!-- <img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">-->
-
 
 #### Programming Languages I...
 

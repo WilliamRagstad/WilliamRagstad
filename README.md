@@ -275,6 +275,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 > Some even call me a **10x [Rockstar](https://github.com/RockstarLang/rockstar) developer**! 🌟 \
 > Recruiters, [read this](https://hackernoon.com/the-myth-of-a-rockstar-developer-e6564bd51b5c).
 
+<!--
 #### Follow me on my social media 🤖
 
 <p>
@@ -283,8 +284,9 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   <a href="https://stackoverflow.com/users/5698805/william-r" target="_blank"><img src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white"/></a>
   <a href="https://www.twitch.tv/williamragstad" target="_blank"><img src="https://img.shields.io/badge/WilliamRagstad%20-%2365469c.svg?&style=flat&logo=Twitch&logoColor=white"/></a>
 </p>
+-->
 
-OR visit my website [williamr.dev](https://www.williamr.dev/) to get to know me better.
+Visit my website [williamr.dev](https://www.williamr.dev/) to get to know me better.
 
 
 <br/><br/>

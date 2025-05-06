@@ -15,11 +15,11 @@ member of the **ACM Special Interest Group on Programming Languages**. [![](http
 
 ### Creator of awesome OSS and innovative technology 🚀
 
-⤷  My area of interest lies in crafting high quality Open-Source Software, Tools and Apps for developers
+⤷  My area of interest lies in crafting high-quality Open-Source Software, Tools, and Apps for developers
 I have extensive experience in constructing diverse applications and have a track record of developing innovative technology.
 My pursuit of excellence and my commitment to making a positive contribution to the tech community drives me to continuously improve my skills and knowledge.
 
-_Some_ of the projects and contributions in my portfolio encompasses e.g the development of new programming languages such as, [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
+_Some_ of the projects and contributions in my portfolio encompass e.g. the development of new programming languages such as [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
 <br>
 <br>

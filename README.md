@@ -21,6 +21,13 @@ My pursuit of excellence and my commitment to making a positive contribution to 
 
 _Some_ of the projects and contributions in my portfolio encompass e.g. the development of new programming languages such as [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
+---
+
+<div align="center">
+  <h3>
+    View my <a href="https://williamr.dev/resume/">New Resume</a> &nbsp; (<s><em><a href="https://resume.io/r/qnQGASSSD">Old</a></em></s>)
+  </h3>
+</div>
 
 ---
 
@@ -45,7 +52,8 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 <a aligh="left" href="https://williamr.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/WilliamRagstad" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/william-ragstad/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 -->
 
-<br>
+<br/>
+<br/>
 <br/>
 
 <h2>Featured Projects</h2>
@@ -123,6 +131,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   <br/><br/>
   <div align="center">
     <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a>
+    <!-- <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Summary 1</a> -->
   </div>
 </details>
 
@@ -141,22 +150,6 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   </div>
   <br/>
 </details>
-
-
----
-
-
-<details>
-  <summary>Resume / CV</summary>
-  <div align="center">
-    <a href="https://williamr.dev/resume/">Professional Resume</a> |
-    <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Summary 1</a> |
-    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary 2</a> |
-    <a href="https://resume.io/r/qnQGASSSD">Professional Resume (Long)</a>
-  </div>
-  <br/>
-</details>
-
 
 ---
 

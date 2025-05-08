@@ -172,7 +172,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
     <tr>
       <td>
         <a href="https://github.com/lento-lang"><img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/></a>
-        <a href="https://github.com/mini-lang"><img alt="mini" src="https://img.shields.io/badge/mini-439f46.svg?&style=flat&logo=oracle&logoColor=white"/></a>
+        <a href="https://github.com/mini-lang"><img alt="mini" src="https://img.shields.io/badge/mini-439f46.svg?&style=flat&logo=leaflet&logoColor=white"/></a>
         <a href="https://github.com/WilliamRagstad/webx"><img alt="webx" src="https://img.shields.io/badge/webx-4356D5.svg?&style=flat&logo=xstate&logoColor=white"/></a>
         <!--<a href="https://github.com/WilliamRagstad/WordLang"><img alt="Word" src="https://img.shields.io/badge/word-104310.svg?&style=flat&logo=writedotas&logoColor=white"/></a>-->
         <a href="https://github.com/WilliamRagstad/AFK-Script"><img alt="AFK" src="https://img.shields.io/badge/afk-ff00cb.svg?&style=flat&logo=wakatime&logoColor=white"/></a>

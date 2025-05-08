@@ -174,10 +174,10 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
         <a href="https://github.com/lento-lang"><img alt="Lento" src="https://img.shields.io/badge/Lento%20-%232F292C.svg?&style=flat&logo=wagtail&logoColor=white"/></a>
         <a href="https://github.com/mini-lang"><img alt="mini" src="https://img.shields.io/badge/mini-439f46.svg?&style=flat&logo=oracle&logoColor=white"/></a>
         <a href="https://github.com/WilliamRagstad/webx"><img alt="webx" src="https://img.shields.io/badge/webx-4356D5.svg?&style=flat&logo=xstate&logoColor=white"/></a>
-        <a href="https://github.com/WilliamRagstad/WordLang"><img alt="Word" src="https://img.shields.io/badge/word-104310.svg?&style=flat&logo=writedotas&logoColor=white"/></a>
+        <!--<a href="https://github.com/WilliamRagstad/WordLang"><img alt="Word" src="https://img.shields.io/badge/word-104310.svg?&style=flat&logo=writedotas&logoColor=white"/></a>-->
         <a href="https://github.com/WilliamRagstad/AFK-Script"><img alt="AFK" src="https://img.shields.io/badge/afk-ff00cb.svg?&style=flat&logo=wakatime&logoColor=white"/></a>
         <a href="https://github.com/WilliamRagstad/CakeLang"><img alt="Cake" src="https://img.shields.io/badge/cake-d11056.svg?&style=flat&logo=cakephp&logoColor=white"/></a>
-        <a href="https://github.com/WilliamRagstad/KiwiShell"><img alt="KiwiShell" src="https://img.shields.io/badge/KiwiShell-336516.svg?&style=flat&logo=kinopoisk&logoColor=white"/></a>
+        <!--<a href="https://github.com/WilliamRagstad/KiwiShell"><img alt="KiwiShell" src="https://img.shields.io/badge/KiwiShell-336516.svg?&style=flat&logo=kinopoisk&logoColor=white"/></a>-->
       </td>
       <td>
         <a href="https://github.com/mkhan45/RustScript2"><img alt="RustScript" src="https://img.shields.io/badge/RustScript-d84315.svg?&style=flat&logo=discogs&logoColor=white"/></a>

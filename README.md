@@ -108,15 +108,14 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
     <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
   </a>
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />-->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
-  <a href="https://git.io/streak-stats">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com?user=WilliamRagstad&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  </a>
+
   
   <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
     <a href="https://app.daily.dev/williamr"><img src="https://api.daily.dev/devcards/v2/Tw5wcZYcjTxL0S4KLIpYA.png" height="400" alt="William's Dev Card"/></a>
     <a href="https://app.daily.dev/WilliamR"><img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" height="370" alt="William's Dev Card"/></a>
   </div>
+  <br/>
   
   <img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%">
   <img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg" width="49%">

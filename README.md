@@ -21,16 +21,6 @@ My pursuit of excellence and my commitment to making a positive contribution to 
 
 _Some_ of the projects and contributions in my portfolio encompass e.g. the development of new programming languages such as [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
----
-
-<div align="center">
-  <h3>
-    View my <a href="https://williamr.dev/resume/">New Resume</a> &nbsp; (<s><em><a href="https://resume.io/r/qnQGASSSD">Old</a></em></s>)
-  </h3>
-</div>
-
----
-
 <img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%" align="right">
 
 #### Fun facts

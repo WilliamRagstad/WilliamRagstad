@@ -55,9 +55,10 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   <a href="https://github.com/mini-lang/mini-lang" target="_blank"><img alt="mini-lang" src="https://raw.githubusercontent.com/mini-lang/mini-lang/main/assets/logo_small.png" height="46px"></a>
   &nbsp;
   <a href="https://github.com/webx-net/webx" target="_blank"><img alt="WebX" src="https://github.com/webx-net/webx/raw/main/assets/webx.png" height="45px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
+  <a href="https://github.com/QuansyDB" target="_blank"><img alt="Quansy DB" src="https://avatars.githubusercontent.com/u/116982065?s=200&v=4" height="70px"></a>
+  &nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/gsh" target="_blank"><img alt="Gsh" src="https://raw.githubusercontent.com/WilliamRagstad/gsh/refs/heads/main/assets/logo.png" height="75px"></a>
-  <a href="https://quansycms.wordpress.com/home/" target="_blank"><img alt="Quansy CMS" src="https://creatorspace.imgix.net/users/clpa6c2sc0183m8013vmh5jal/DySojha1IBPXRzq2-cropped-logo-1.png?w=750&h=750" height="70px"></a>
   <br/>
   <br/>
   <br/>
@@ -80,8 +81,6 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
   <a href="https://github.com/WilliamRagstad/Pond" target="_blank"><img alt="Pond" src="https://github.com/WilliamRagstad/Pond/raw/master/assets/logo.png" height="60px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/WilliamRagstad/WireframeImages" target="_blank"><img alt="WireframeImages" src="https://github.com/WilliamRagstad/WireframeImages/raw/master/assets/ship.png" height="60px"></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://refined-github-html-preview.kidonng.workers.dev/WilliamRagstad/ants/raw/refs/heads/main/index.html" target="_blank"><img alt="Ants" src="http://www.eccesignum.org/wp-content/uploads/2020/09/20200914-langton-1.png" height="60px"></a>
   <br/>
   <a href="https://github.com/WilliamRagstad/Font-Manager" target="_blank"><img alt="Font Manager" src="img/font_manager.png" height="55px"></a>
   &nbsp;&nbsp;&nbsp;&nbsp;

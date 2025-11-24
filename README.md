@@ -21,8 +21,6 @@ My pursuit of excellence and my commitment to making a positive contribution to 
 
 _Some_ of the projects and contributions in my portfolio encompass e.g. the development of new programming languages such as [Lento](https://github.com/Lento-lang), [mini](https://github.com/mini-lang/mini-lang), [RustScript](https://github.com/WilliamRagstad/RustScript), libraries and tools such as [APC](https://github.com/APCLib) or [Font Manager](https://github.com/WilliamRagstad/Font-Manager) — some having more than **100k downloads!** 🎉
 
-<img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%" align="right">
-
 #### Fun facts
 <!--
 - 🔭 I’m currently working on ...
@@ -42,8 +40,6 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 <a aligh="left" href="https://williamr.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/globe.svg" alt="Website" width="22" height="22" /></a> <a aligh="left" href="https://twitter.com/WilliamRagstad" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/twitter.svg" alt="Twitter" width="22" height="22" /></a> <a aligh="left" href="https://www.linkedin.com/in/william-ragstad/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/socials/linkedin.svg" alt="LinkedIn" width="22" height="22" /></a>
 -->
 
-<br/>
-<br/>
 <br/>
 
 <h2>Featured Projects</h2>
@@ -97,41 +93,34 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 
 ---
 
-<details>
-  <summary>GitHub Statistics</summary>
-  <br/><br/>
-  <!-- <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg"> -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
-  </a>
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />-->
-
-  
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
-    <a href="https://app.daily.dev/williamr"><img src="https://api.daily.dev/devcards/v2/Tw5wcZYcjTxL0S4KLIpYA.png" height="400" alt="William's Dev Card"/></a>
-    <a href="https://app.daily.dev/WilliamR"><img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" height="370" alt="William's Dev Card"/></a>
-  </div>
-  <br/>
-  
-  <img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%">
-  <img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg" width="49%">
-  <!-- Footer -->
-  <br/><br/>
-  <div align="center">
-    <a href="https://profile-summary-for-github.com/user/WilliamRagstad">GitHub Summary</a>
-    <!-- <a href="https://resume-github.vercel.app/WilliamRagstad">GitHub Summary 1</a> -->
-  </div>
-</details>
-
----
+<br/>
+<img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%" align="right">
+<img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%">
+<!--
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
+<img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
+-->
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=WilliamRagstad&theme=dracula&no-frame=true&margin-w=15"/>
+</a>
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=WilliamRagstad&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&custom_title=GitHub Statistics&theme=dracula" />-->
 
 
+<!-- <div align="center">
+  <a href="https://app.daily.dev/williamr"><img src="https://api.daily.dev/devcards/v2/Tw5wcZYcjTxL0S4KLIpYA.png" height="400" alt="William's Dev Card"/></a>
+  <a href="https://app.daily.dev/WilliamR"><img src="https://github.com/WilliamRagstad/WilliamRagstad/blob/devcard/devcard.svg" height="370" alt="William's Dev Card"/></a>
+</div>
+<br/>
+<img alt="Habits" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/habits.svg" width="49%">
+-->
+
+
+<!--
 <details>
   <summary>Sponsors and Donations</summary>
   <br/>
   <div align="center">
-    <!-- <img alt="Sponsor" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/sponsors.svg"> -->
+    <img alt="Sponsor" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/sponsors.svg">
    <a href="https://github.com/sponsors/WilliamRagstad"><img src="img/sponsor.png" height="60"/></a>
     &nbsp;
    <a href="https://www.buymeacoffee.com/williamragstad"><img src="img/coffee.png" height="70"/></a>
@@ -141,6 +130,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 </details>
 
 ---
+-->
 
 <br/>
 <!-- <img alt="Languages" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/languages.svg">-->
@@ -263,7 +253,7 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 </p>
 -->
 
-Visit my website [williamr.dev](https://www.williamr.dev/) to get to know me better.
+Visit my website [williamr.dev](https://www.williamr.dev/) to get to know me better. Or view my [GitHub Summary](https://profile-summary-for-github.com/user/WilliamRagstad).
 
 
 <br/><br/>

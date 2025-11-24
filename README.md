@@ -94,8 +94,8 @@ _Some_ of the projects and contributions in my portfolio encompass e.g. the deve
 ---
 
 <br/>
-<img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="49%" align="right">
-<img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="49%">
+<img alt="Contributions calendar" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/isometric.svg" width="46%" align="right">
+<img alt="Metrics" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/github-metrics.svg" width="46%">
 <!--
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamRagstad&langs_count=10&hide_border=true&layout=compact&theme=dracula"/>
 <img alt="Achievements" src="https://raw.githubusercontent.com/WilliamRagstad/WilliamRagstad/metrics/achievements.svg">
